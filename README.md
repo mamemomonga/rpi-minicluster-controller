@@ -9,6 +9,8 @@
 
 ![schematics](resources/schematics.png)
 
+この回路図ではISPのRSTが繋がっていないが、PC6(RESET)と接続する必要がある。
+
 # ビルドおよびAVRへの書き込み方法
 
 ビルドにはgolang, make, gcc, avr-gcc などが必要です。
