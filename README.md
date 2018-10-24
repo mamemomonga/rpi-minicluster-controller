@@ -5,6 +5,8 @@
 
 ![photo1](resources/photo1.jpg)
 
+[基盤の紹介](./board.md)
+
 # 回路図
 
 ![schematics](resources/schematics.png)
